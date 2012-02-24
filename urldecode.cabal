@@ -1,8 +1,9 @@
 name:                urldecode
 version:             1.0.0.0
-synopsis:            Decode URLs passed as command-line arguments.
-description:         Pass a list of URLs to the executable as arguments and it
-                     will print the decoded versions, separated by newlines.
+synopsis:            Decode percent-encoded strings.
+description:         Pass a list of percent-encoded strings to the executable as
+                     arguments and it will print the decoded versions, separated
+                     by newlines.
 license:             BSD3
 license-file:        LICENSE
 author:              Benedict Eastaugh
