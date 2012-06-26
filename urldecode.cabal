@@ -1,5 +1,5 @@
 name:                urldecode
-version:             1.0.0.1
+version:             1.0.0.2
 synopsis:            Decode percent-encoded strings.
 description:         Pass a list of percent-encoded strings to the executable as
                      arguments and it will print the decoded versions, separated
